@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordSpark</string>
+    <string name="home_title">WordSpark</string>
+    <string name="home_subtitle">Daily Word Challenge</string>
+    <string name="home_todays_challenge">Today\'s Challenge</string>
+    <string name="home_streak">Day Streak</string>
+    <string name="home_play">Play</string>
+    <string name="puzzle_time_left">Time Left</string>
+    <string name="puzzle_score">Score</string>
+    <string name="puzzle_submit">Submit</string>
+    <string name="puzzle_hint">Type your answer…</string>
+    <string name="results_your_score">Your Score</string>
+    <string name="results_streak">Current Streak</string>
+    <string name="results_share">Share</string>
+    <string name="results_play_again">Play Tomorrow</string>
+    <string name="cd_flame_icon">Flame icon for streak</string>
+    <string name="cd_trophy_icon">Trophy icon for score</string>
+    <string name="cd_timer_icon">Timer icon</string>
+    <string name="cd_play_button">Start today\'s puzzle</string>
+    <string name="cd_share_button">Share your score</string>
+</resources>
